@@ -6,3 +6,5 @@ Na tela principal, pode ser feito a inserção desses convidados na lista, junta
 Foi criado ainda um método para que os convidados não constem repetidamente na lista.
 
 Data: 11/2019.
+
+
