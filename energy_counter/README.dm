@@ -4,4 +4,4 @@ Para tal, traz uma tela de cadastro para os três tipos de contas, e retorna al�
 
 Foram criadas três no programa, incluindo a principal.
 
-Data: 11/2019
+Data: 11/2019.
