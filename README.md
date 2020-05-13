@@ -5,7 +5,7 @@ O curso técnico integrado em Informática tem duração de 04 anos. Iniciei o m
 
 # Programas em Java - IFSUL :brazil:
 
-Os seguinte programas foram desenvolvidos na linguagem Java no decorrer do curso técnico em informática no Instuto Federal de educação, ciência e tecnologia - campus Venâncio Aires.
+Os presentes programas foram desenvolvidos na linguagem Java no decorrer do curso técnico em informática no Instuto Federal de educação, ciência e tecnologia - campus Venâncio Aires.
 
 <hr>
 <p align="center">
