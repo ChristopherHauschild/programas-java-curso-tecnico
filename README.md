@@ -9,7 +9,7 @@ Os seguinte programas foram desenvolvidos na linguagem Java no decorrer do curso
 
 <hr>
 <p align="center">
-  <img width="700px" src="https://github.com/ChristopherHauschild/programas-java-curso-tecnico/blob/master/logoIF.png?raw=true" />
+  <img width="800px" src="https://github.com/ChristopherHauschild/programas-java-curso-tecnico/blob/master/logoIF.png?raw=true" />
 </p>
 
 ## Ferramentas de desenvolvimento: :wrench:
@@ -29,7 +29,11 @@ Os seguinte programas foram desenvolvidos na linguagem Java no decorrer do curso
 
 ### Maiores informaões: :pencil:
 
-Além das disciplinas utilizadas para o desenvolvimentos destes programas, o IFSUL oferece uma formação na área de Redes e Arquitetura de Computadores, além do Desenvolvimento Web. Maiores informações sobre o curso podem ser encontradas neste <a href="">http://www.ifsul.edu.br/</a>.
+Além das disciplinas utilizadas para o desenvolvimentos destes programas, o IFSUL oferece uma formação na área de Redes e Arquitetura de Computadores, além do Desenvolvimento Web. 
+
+A atividade desenvolvida com as disciplinas de Programação Web e Web Design pode ser encontrada neste <a href="https://github.com/ChristopherHauschild/mobile_website-IFSUL">repositório</a>.
+
+Maiores informações sobre o curso disponível em `http://www.ifsul.edu.br/`.
 
 <hr>
 
