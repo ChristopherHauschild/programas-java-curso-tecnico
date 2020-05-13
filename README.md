@@ -24,7 +24,7 @@ Os seguinte programas foram desenvolvidos na linguagem Java no decorrer do curso
   <li> Linguagem de Programação I </li>
   <li> Linguagem de Programação II </li>
   <li> Linguagem de Programação III </li>
-<ul>
+</ul>
 
 ### Maiores informaões: :pencil:
 
