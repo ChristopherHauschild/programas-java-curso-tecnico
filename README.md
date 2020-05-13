@@ -1,4 +1,4 @@
-### Formação :calendar:
+### Formação :mortar_board:
 
 O curso técnico integrado em Informática tem duração de 04 anos. Iniciei o mesmo em 2017.
 Encerramento em 2020.
