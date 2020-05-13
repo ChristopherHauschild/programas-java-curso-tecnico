@@ -9,7 +9,7 @@ Os seguinte programas foram desenvolvidos na linguagem Java no decorrer do curso
 
 <hr>
 <p align="center">
-  <img width="900px" src="https://github.com/ChristopherHauschild/programas-java-curso-tecnico/blob/master/logoIF.png?raw=true" />
+  <img width="700px" src="https://github.com/ChristopherHauschild/programas-java-curso-tecnico/blob/master/logoIF.png?raw=true" />
 </p>
 
 ## Ferramentas de desenvolvimento: :wrench:
