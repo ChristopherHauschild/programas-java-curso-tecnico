@@ -1,5 +1,35 @@
+### Formação em andamento :calendar:
+
+O curso técnico integrado em Informática tem duração de 04 anos. Inicie o mesmo em 2017.
+
+# Programas em Java - IFSUL :brazil:
+
 Os seguinte programas foram desenvolvidos na linguagem Java no decorrer do curso técnico em informática no Instuto Federal de educação, ciência e tecnologia - campus Venâncio Aires.
 
-O NetBeans IDE foi o ambiente de utilizado para o desenvolvimento dos mesmos.
+<hr>
+<p align="center">
+  <img width="900px" src="" />
+</p>
 
-Pude trabalhar a partir destes programas conhecimentos adquiridos na disciplinas de Lógica de Programação, Banco de Dados e Linguagem de Programação I, II e III
+## Ferramentas de desenvolvimento: :wrench:
+<ul>
+  <li> NetBeans IDE </li>
+  <li> MySql Workbench </li>
+</ul>
+
+## Disciplinas utilizadas: :books:
+<ul>
+  <li> Lógica de Programação </li>
+  <li> Banco de Dados </li>
+  <li> Linguagem de Programação I </li>
+  <li> Linguagem de Programação II </li>
+  <li> Linguagem de Programação III </li>
+<ul>
+
+### Maiores informaões: :pencil:
+
+Além das disciplinas utilizadas para o desenvolvimentos destes programas, o IFSUL oferece uma formação na área de Redes e Arquitetura de Computadores, além do Desenvolvimento Web. Maiores informações sobre o curso podem ser encontradas neste <a href="">http://www.ifsul.edu.br/</a>.
+
+<hr>
+
+Programas desenvolvidos com horas a frente do :computer: por Christopher H. Schott
