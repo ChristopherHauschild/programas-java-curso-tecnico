@@ -27,7 +27,7 @@ Os seguinte programas foram desenvolvidos na linguagem Java no decorrer do curso
   <li> Linguagem de Programação III </li>
 </ul>
 
-### Maiores informaões: :pencil:
+### Maiores informações: :pencil:
 
 Além das disciplinas utilizadas para o desenvolvimentos destes programas, o IFSUL oferece uma formação na área de Redes e Arquitetura de Computadores, além do Desenvolvimento Web. 
 
