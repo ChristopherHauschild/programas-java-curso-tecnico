@@ -1,6 +1,7 @@
-### Formação em andamento :calendar:
+### Formação :calendar:
 
 O curso técnico integrado em Informática tem duração de 04 anos. Iniciei o mesmo em 2017.
+Encerramento em 2020.
 <hr>
 
 # Programas em Java - IFSUL :brazil:
